@@ -10,4 +10,4 @@
 
 ##### Relatively new, but knowledge on JavaScript.
 
-###### Changed to be made to this markdown.
+###### Changes to be made to this markdown.
