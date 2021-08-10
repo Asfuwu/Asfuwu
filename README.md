@@ -8,6 +8,6 @@
 * CSS
 * SQL
 
-######Relatively new, but knowledge on JavaScript.
+###### Relatively new, but knowledge on JavaScript.
 
 ##### Changed to be made to this markdown.
