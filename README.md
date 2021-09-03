@@ -1,5 +1,5 @@
 ![](https://media.discordapp.net/attachments/769917657197051935/883375168741855272/emi_katakana.png)
-##### Languages to learn:
+### Languages to learn:
 * JavaScript
 * HTML
 * CSS
@@ -8,7 +8,7 @@
 * C++
 * Python
 
-##### Tools I use:
+### Tools I use:
 * Visual Studio Code
 * Javacript
 * HTML
