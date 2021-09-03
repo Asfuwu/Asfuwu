@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/866641398984081418/874749303330062416/asufi__asfi.png)
+![](https://media.discordapp.net/attachments/769917657197051935/883375168741855272/emi_katakana.png)
 
 ##### What I'd like to learn:
 * JavaScript
